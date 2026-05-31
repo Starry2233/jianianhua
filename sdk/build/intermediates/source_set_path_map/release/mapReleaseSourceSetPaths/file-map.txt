@@ -1,7 +1,0 @@
-com.xtc.dial.sdk-pngs-0 C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\build\generated\res\pngs\release
-com.xtc.dial.sdk-resValues-1 C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\build\generated\res\resValues\release
-com.xtc.dial.sdk-mergeReleaseResources-2 C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.xtc.dial.sdk-mergeReleaseResources-3 C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.xtc.dial.sdk-release-4 C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\build\intermediates\merged_res\release\mergeReleaseResources
-com.xtc.dial.sdk-main-5 C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\src\main\res
-com.xtc.dial.sdk-release-6 C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\src\release\res

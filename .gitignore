@@ -3,11 +3,14 @@
 /local.properties
 /.idea
 .DS_Store
-/build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+
+# build output (all modules)
+build/
+*/build/
 
 # keystore
 *.keystore
@@ -25,3 +28,6 @@ local.properties
 /src
 /res
 /AndroidManifest.xml
+
+# project metadata (machine-specific paths)
+.xtcproject
