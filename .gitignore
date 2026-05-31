@@ -20,3 +20,8 @@ local.properties
 
 # Frida hook scripts
 *.js
+
+# stale duplicates (code in app/ only)
+/src
+/res
+/AndroidManifest.xml
