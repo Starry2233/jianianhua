@@ -6,6 +6,10 @@
 
 基于小天才主题商店"MC乐魂"形象表盘逆向分析，从零复现的 `clockType=10` (WallpaperService) 表盘。视觉效果不错，完整还原了乐魂风格的数字和布局。
 
+<p align="center">
+  <img src="demo.gif" width="320" alt="探索无限 表盘演示">
+</p>
+
 ## 声明
 
 - **仅用于学习交流和技术参考**
