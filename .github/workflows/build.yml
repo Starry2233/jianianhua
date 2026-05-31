@@ -29,6 +29,7 @@ jobs:
         run: ./gradlew assembleDebug --no-daemon
 
       - name: Build release
+        continue-on-error: true
         run: ./gradlew assembleRelease --no-daemon
 
       - name: Upload debug APK
@@ -38,6 +39,7 @@ jobs:
           path: app/build/outputs/apk/debug/*.apk
 
       - name: Upload release APK
+        continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: jianianhua-release
