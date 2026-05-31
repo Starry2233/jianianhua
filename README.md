@@ -1,8 +1,8 @@
 # 探索无限 (Explore Infinity)
 
-> 小天才 Z8A 手表表盘
+> 小天才 Z8A 手表表盘 — Minecraft 乐魂主题
 
-基于小天才主题商店某款表盘逆向分析，从零复现的 `clockType=10` (WallpaperService) 表盘。
+基于小天才主题商店"MC乐魂"形象表盘逆向分析，从零复现的 `clockType=10` (WallpaperService) 表盘。视觉效果不错，完整还原了乐魂风格的数字和布局。
 
 ## 声明
 
