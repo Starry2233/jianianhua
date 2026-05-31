@@ -19,6 +19,21 @@
 - 电池电量显示
 - 动态水平居中，适配不同屏幕宽度
 
+## 食用方法
+
+### 方案一（简单）
+1. 在 GitHub Actions 页面下载最新构建的 debug APK
+2. 重命名为 `jianianhua.cl`
+3. 替换设备上 `/sdcard/xtc/dial/jianianhua/jianianhua.cl`
+4. 重启 Launcher
+
+### 方案二（推荐）
+1. `git clone https://github.com/Starry2233/jianianhua.git`
+2. 使用 [Starry2233/XtcDialFactory](https://github.com/Starry2233/XtcDialFactory) 工具一键编译部署
+   - 自动编译 → DEX → 签名 → push 到设备
+   - 自动写入 SharedPreferences 激活
+   - 无需手动操作
+
 ## 技术栈
 
 - Android API 25+ (minSdk)
