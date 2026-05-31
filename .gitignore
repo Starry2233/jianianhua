@@ -17,3 +17,6 @@ local.properties
 *.cl
 *.pl
 *.apk
+
+# Frida hook scripts
+*.js
