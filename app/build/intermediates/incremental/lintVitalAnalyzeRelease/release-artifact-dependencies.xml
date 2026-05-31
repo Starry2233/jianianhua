@@ -1,0 +1,26 @@
+<dependencies>
+  <compile
+      roots=":@@:sdk::release,com.google.code.gson:gson:2.10.1@jar,com.google.protobuf:protobuf-java:3.25.0@jar">
+    <dependency
+        name=":@@:sdk::release"
+        simpleName="jianianhua:sdk"/>
+    <dependency
+        name="com.google.code.gson:gson:2.10.1@jar"
+        simpleName="com.google.code.gson:gson"/>
+    <dependency
+        name="com.google.protobuf:protobuf-java:3.25.0@jar"
+        simpleName="com.google.protobuf:protobuf-java"/>
+  </compile>
+  <package
+      roots=":@@:sdk::release,com.google.code.gson:gson:2.10.1@jar,com.google.protobuf:protobuf-java:3.25.0@jar">
+    <dependency
+        name=":@@:sdk::release"
+        simpleName="jianianhua:sdk"/>
+    <dependency
+        name="com.google.code.gson:gson:2.10.1@jar"
+        simpleName="com.google.code.gson:gson"/>
+    <dependency
+        name="com.google.protobuf:protobuf-java:3.25.0@jar"
+        simpleName="com.google.protobuf:protobuf-java"/>
+  </package>
+</dependencies>

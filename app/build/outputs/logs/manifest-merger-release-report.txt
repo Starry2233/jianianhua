@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [:sdk] C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:5:5-52
+		INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:7:5-74
+INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:7:5-74
+INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:7:5-74
+MERGED from [:sdk] C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:sdk] C:\Users\Administrator\XtcDialProjects\jianianhua\sdk\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:7:42-71
+		INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:16:5-18:45
+	android:extractNativeLibs
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:18:9-42
+	android:label
+		ADDED from C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\AndroidManifest.xml:17:9-41

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="density_standard">2</integer>
+    <integer name="design_plan_size_160">160</integer>
+    <integer name="design_plan_size_208">208</integer>
+    <integer name="design_plan_standard">160</integer>
+    <integer name="image_size_320_360">320</integer>
+    <integer name="image_size_416_468">416</integer>
+    <integer name="image_size_standard">320</integer>
+</resources>

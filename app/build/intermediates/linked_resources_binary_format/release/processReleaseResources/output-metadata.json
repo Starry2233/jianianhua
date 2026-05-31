@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "LINKED_RESOURCES_BINARY_FORMAT",
+    "kind": "Directory"
+  },
+  "applicationId": "com.xtc.dial.jianianhua",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0.00.Local_J0_Ge136d466",
+      "outputFile": "linked-resources-binary-format-release.ap_"
+    }
+  ],
+  "elementType": "File"
+}

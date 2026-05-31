@@ -1,0 +1,12 @@
+{
+  "sourceName": "jianianhua",
+  "dialName": "jianianhua",
+  "clockType": 1,
+  "useState": 1,
+  "dialDir": "/sdcard/xtc/dial/jianianhua/",
+  "versionCode": 1,
+  "previewImages": {
+    "launcher": "preview_launcher.png",
+    "main": "preview_main.png"
+  }
+}

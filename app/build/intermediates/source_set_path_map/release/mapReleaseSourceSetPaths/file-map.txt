@@ -1,0 +1,7 @@
+com.xtc.dial.jianianhua.app-pngs-0 C:\Users\Administrator\XtcDialProjects\jianianhua\app\build\generated\res\pngs\release
+com.xtc.dial.jianianhua.app-resValues-1 C:\Users\Administrator\XtcDialProjects\jianianhua\app\build\generated\res\resValues\release
+com.xtc.dial.jianianhua.app-packageReleaseResources-2 C:\Users\Administrator\XtcDialProjects\jianianhua\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.xtc.dial.jianianhua.app-packageReleaseResources-3 C:\Users\Administrator\XtcDialProjects\jianianhua\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.xtc.dial.jianianhua.app-release-4 C:\Users\Administrator\XtcDialProjects\jianianhua\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.xtc.dial.jianianhua.app-main-5 C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\main\res
+com.xtc.dial.jianianhua.app-release-6 C:\Users\Administrator\XtcDialProjects\jianianhua\app\src\release\res
