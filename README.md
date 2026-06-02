@@ -1,5 +1,3 @@
-> 祝所有大朋友小朋友们六一快乐
-
 # 探索无限 (Explore Infinity)
 
 > 小天才 Z8A 手表表盘 — Minecraft 乐魂主题
